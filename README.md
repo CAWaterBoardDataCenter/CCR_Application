@@ -37,3 +37,7 @@ Varuna's iCCR Overview: https://www.interactiveccr.com/
 
 Flexible database option: https://www.mongodb.com/
 - MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
+
+CA Drinking Water Watch 
+- List of CA Water Systems: https://sdwis.waterboards.ca.gov/PDWW/
+- Water System Details: https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=4424&tinwsys_st_code=CA&wsnumber=CA4510005
