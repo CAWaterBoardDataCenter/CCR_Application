@@ -27,7 +27,11 @@ Identify datasets related to CCRs that can be incorporated into an easy to use w
 
 Develop a data schema that articulates how currently available data sources could be used to develop the desired application.
 
-### Resources
+### Datathon Debrief
+- Although the initial objectives were to sketch out the infrastructure and definitions for making a "CCR" Application, the team was able to quickly get to work and develop an initial prototype of a web application.
+- Next steps will be to iterate on the prototype to further develop and refine the application. 
+
+## Resources
 Water Board CCR Webpage: https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/CCR.html
 
 EPA CCR Page: https://www.epa.gov/ccr/ccr-information-consumers
